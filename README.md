@@ -54,7 +54,7 @@ I am an engineering student in Computer Science and Information Systems. Passion
 </p>
 
 ### 📫 How to reach me:
-* [**LinkedIn**](https://www.linkedin.com/in/charaf-echchorfi-3a92813b4/)
+* [**LinkedIn**](https://www.linkedin.com/in/charaf-echchorfi)
 * [**Email**](mailto:cechchorfi@gmail.com)
 
 ---
@@ -103,5 +103,5 @@ Je suis élève ingénieur en génie informatique et systèmes d'information. Pa
 ![Markov](https://img.shields.io/badge/Processus_de_Markov-8A2BE2?style=for-the-badge)
 
 ### 📫 Comment me contacter :
-* [**LinkedIn**](https://www.linkedin.com/in/charaf-echchorfi-3a92813b4/)
+* [**LinkedIn**](https://www.linkedin.com/in/charaf-echchorfi)
 * [**Email**](mailto:cechchorfi@gmail.com)
