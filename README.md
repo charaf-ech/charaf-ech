@@ -1,9 +1,16 @@
 # Salut 👋, je suis Echchorfi Charaf
+![Compteur de vues](https://komarev.com/ghpvc/?username=charaf-ech&color=blue&style=flat-square&label=Vues+du+profil)
 
 Je suis élève ingénieur en génie informatique et systèmes d'information. Passionné par le développement logiciel et l'administration système, j'aime concevoir des solutions innovantes et relever de nouveaux défis techniques.
 
 ### 🛠️ Ce sur quoi je travaille actuellement :
 * **Spiromètre Arduino** : Un projet de startup visant à concevoir un spiromètre à bas coût basé sur Arduino pour aider au diagnostic des maladies pulmonaires.
+
+### 🏆 Certifications
+* [**Pandas** - Kaggle](https://www.kaggle.com/learn/certification/charafechchorfi/pandas)
+* [**Python** - Kaggle](https://www.kaggle.com/learn/certification/charafechchorfi/python)
+* [**Intro to Programming** - Kaggle](https://www.kaggle.com/learn/certification/charafechchorfi/intro-to-programming)
+* [**Intro to Machine Learning** - Kaggle](https://www.kaggle.com/learn/certification/charafechchorfi/intro-to-machine-learning)
 
 ### 🚀 Mes domaines d'intérêt :
 * Développement logiciel
