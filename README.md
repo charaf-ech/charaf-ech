@@ -7,10 +7,10 @@ Je suis élève ingénieur en génie informatique et systèmes d'information. Pa
 * **Spiromètre Arduino** : Un projet de startup visant à concevoir un spiromètre à bas coût basé sur Arduino pour aider au diagnostic des maladies pulmonaires.
 
 ### 🏆 Certifications
-* [**Pandas** - Kaggle](https://www.kaggle.com/learn/certification/charafechchorfi/pandas)
-* [**Python** - Kaggle](https://www.kaggle.com/learn/certification/charafechchorfi/python)
-* [**Intro to Programming** - Kaggle](https://www.kaggle.com/learn/certification/charafechchorfi/intro-to-programming)
-* [**Intro to Machine Learning** - Kaggle](https://www.kaggle.com/learn/certification/charafechchorfi/intro-to-machine-learning)
+* ![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white) [**Pandas** - Kaggle](https://www.kaggle.com/learn/certification/charafechchorfi/pandas)
+* ![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white) [**Python** - Kaggle](https://www.kaggle.com/learn/certification/charafechchorfi/python)
+* ![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white) [**Intro to Programming** - Kaggle](https://www.kaggle.com/learn/certification/charafechchorfi/intro-to-programming)
+* ![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white) [**Intro to Machine Learning** - Kaggle](https://www.kaggle.com/learn/certification/charafechchorfi/intro-to-machine-learning)
 
 ### 🚀 Mes domaines d'intérêt :
 * Développement logiciel
@@ -44,7 +44,9 @@ Je suis élève ingénieur en génie informatique et systèmes d'information. Pa
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=charaf-ech&show_icons=true&theme=radical&hide_border=true" alt="Statistiques de charaf-ech" />
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charaf-ech&layout=compact&theme=radical&hide_border=true" alt="Langages les plus utilisés" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=charaf-ech&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ### 📫 Comment me contacter :
