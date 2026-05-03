@@ -44,14 +44,6 @@ I am an engineering student in Computer Science (Information Systems). Passionat
 ![Algorithms](https://img.shields.io/badge/Algorithms_&_Maths-0052CC?style=for-the-badge)
 ![Markov](https://img.shields.io/badge/Markov_Decision_Process-8A2BE2?style=for-the-badge)
 
-### My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=charaf-ech&show_icons=true&theme=radical&hide_border=true" alt="charaf-ech's Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charaf-ech&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=charaf-ech&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
 
 ### How to reach me:
 * [**LinkedIn**](https://www.linkedin.com/in/charaf-echchorfi)
