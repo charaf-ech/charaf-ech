@@ -6,7 +6,7 @@
 # Hi , I'm Echchorfi Charaf
 ![Profile Views](https://komarev.com/ghpvc/?username=charaf-ech&color=blue&style=flat-square&label=Profile+Views)
 
-I am an engineering student in Computer Science and Information Systems. Passionate about software development and system administration, I enjoy building innovative solutions and tackling new technical challenges.
+I am an engineering student in Computer Science (Information Systems). Passionate about software development and system administration, I enjoy building innovative solutions and tackling new technical challenges.
 
 ### What I'm currently working on:
 * **Arduino Spirometer**: A startup project aimed at designing a low-cost, Arduino-based spirometer to assist in the diagnosis of pulmonary diseases.
@@ -64,7 +64,7 @@ I am an engineering student in Computer Science and Information Systems. Passion
 <a id="-version-française"></a>
 # Salut, je suis Echchorfi Charaf
 
-Je suis élève ingénieur en génie informatique et systèmes d'information. Passionné par le développement logiciel et l'administration système, j'aime concevoir des solutions innovantes et relever de nouveaux défis techniques.
+Je suis élève ingénieur en génie informatique (systèmes d'information). Passionné par le développement logiciel et l'administration système, j'aime concevoir des solutions innovantes et relever de nouveaux défis techniques.
 
 ### Ce sur quoi je travaille actuellement :
 * **Spiromètre Arduino** : Un projet de startup visant à concevoir un spiromètre à bas coût basé sur Arduino pour aider au diagnostic des maladies pulmonaires.
