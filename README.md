@@ -8,8 +8,6 @@
 
 I am an engineering student in Computer Science (Information Systems). Passionate about software development and system administration, I enjoy building innovative solutions and tackling new technical challenges.
 
-### What I'm currently working on:
-* **Arduino Spirometer**: A startup project aimed at designing a low-cost, Arduino-based spirometer to assist in the diagnosis of pulmonary diseases.
 
 ### Certifications
 * ![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white) [**Pandas** - Kaggle](https://www.kaggle.com/learn/certification/charafechchorfi/pandas)
